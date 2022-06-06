@@ -1,0 +1,8 @@
+@media(max-width: 870px){
+    .menu{
+        display: none;
+    }
+    .burger{
+        display: block;
+    }
+}

@@ -1,0 +1,51 @@
+.articles__inner {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.article {
+    width: 400px;
+    padding-top: 75px;
+    text-align: center;
+}
+
+.article__title {
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 39px;
+    letter-spacing: 0.22px;
+    color: #292F36;
+}
+
+.article__text {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+    text-align: center;
+    margin: 17px auto;
+    width: 317px;
+}
+
+.article__btn {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: 0.36px;
+    color: #4D5053;
+    border: 0px;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    margin: 68px auto 0px auto;
+}
+.article__btn svg{
+    margin-left: 8px;
+}

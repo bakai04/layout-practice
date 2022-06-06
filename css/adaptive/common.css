@@ -1,0 +1,40 @@
+@media(max-width: 1100px){
+    .container{
+        max-width: 900px;
+    }
+}
+@media(max-width: 970px){
+    .container{
+        max-width: 800px;
+    }
+}
+@media(max-width: 870px){
+    .container{
+        max-width: 700px;
+    }
+}
+@media(max-width: 770px){
+    .container{
+        max-width: 600px;
+    }
+}
+@media(max-width: 670px){
+    .container{
+        max-width: 500px;
+    }
+}
+@media(max-width: 570px){
+    .container{
+        max-width: 400px;
+    }
+}
+@media(max-width: 470px){
+    .container{
+        max-width: 300px;
+    }
+}
+@media(max-width: 350px){
+    .container{
+        max-width: 270px;
+    }
+}

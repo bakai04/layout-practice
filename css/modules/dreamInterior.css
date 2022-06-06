@@ -1,0 +1,29 @@
+#dream-interior {
+    background: url(../../img/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 188px 0px 260px 0px;
+}
+
+.dream-interior__title {
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 96px;
+    letter-spacing: 0.22px;
+    width: 595px;
+    color: #292F36;
+}
+
+.dream-interior__text {
+    width: 577px;
+    margin-top: 19px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+}
