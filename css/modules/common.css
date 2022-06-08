@@ -1,18 +1,23 @@
-*{
+* {
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
     font-family: 'Jost', sans-serif;
 }
-a{
+
+a {
     text-decoration: none;
 }
-.container{
+button{
+    cursor: pointer;
+}
+.container {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
 }
-.prime-btn {
+
+.prime-btn, .contact__btn{
     display: flex;
     align-items: center;
     background: #292F36;
@@ -25,5 +30,17 @@ a{
     letter-spacing: 0.72px;
     color: #FFFFFF;
     padding: 14px 20px 14px 32px;
-    margin-top: 35px;
+    transition: all ease-in-out 0.2s;
+    cursor: pointer;
+}
+
+.prime-btn:hover {
+    background: #FFFFFF;
+    border: 2px solid #CDA274;
+    color:#CDA274;
+}
+
+.prime-btn__arrow {
+    margin-left: 34px;
+    margin-right: -14px;
 }

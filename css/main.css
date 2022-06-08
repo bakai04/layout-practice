@@ -2,4 +2,14 @@
 @import url(./modules/header.css);
 @import url(./modules/dreamInterior.css);
 @import url(./modules/article.css);
+@import url(./modules/challenging.css);
+@import url(./modules/testimonials.css);
+@import url(./modules/partners.css);
+@import url(./modules/recent.css);
+@import url(./modules/achievement.css);
+@import url(./modules/recentBlogs.css);
+@import url(./modules/contact.css);
+@import url(./modules/footer.css);
+
+
 @import url(./adaptive/mainOfAdaptive.css)

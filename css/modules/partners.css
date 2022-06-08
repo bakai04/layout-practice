@@ -1,0 +1,12 @@
+.partners{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 49px;
+    margin-top: 140px
+}
+@media (max-width: 900px){
+    .partners{
+        display: none;
+    }
+}

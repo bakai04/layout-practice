@@ -1,0 +1,136 @@
+@media(max-width: 1300px) {
+    .project img {
+        width: 41vw;
+        height: auto;
+    }
+
+    .recent__text {
+        width: 64vw;
+    }
+}
+
+@media(max-width: 950px) {
+    .project__text {
+        font-size: 22px;
+    }
+
+    .recent__text {
+        font-size: 20px;
+    }
+}
+
+@media(max-width: 871px) {
+    .project__text {
+        font-size: 20px;
+    }
+}
+
+@media(max-width: 810px) {
+    .project__text {
+        font-size: 19px;
+        line-height: 18px;
+
+    }
+
+    .project__btn {
+        width: 50px;
+        height: 50px;
+    }
+}
+
+@media(max-width: 740px) {
+    .recent {
+        margin-top: 64px;
+    }
+    .project__text {
+        font-size: 17px;
+    }
+
+    .recent__text {
+        width: 83vw;
+    }
+
+    .project__name {
+        font-size: 20px;
+        line-height: 26px;
+    }
+
+    .recent__title {
+        font-size: 37px;
+        line-height: 42px;
+    }
+}
+
+@media(max-width: 680px) {
+    .project img {
+        width: 83vw;
+        height: auto;
+    }
+
+    .project__description {
+        margin-top: 6px;
+    }
+
+    .project {
+        margin-top: 30px;
+    }
+
+    .project__text {
+        font-size: 24px;
+        line-height: 38px;
+    }
+
+    .project__name {
+        font-size: 22px;
+        line-height: 33px;
+    }
+
+    .project__btn {
+        width: 60px;
+        height: 60px;
+    }
+}
+
+@media(max-width: 460px) {
+    .recent__text {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .project__text {
+        font-size: 20px;
+    }
+}
+
+@media(max-width: 400px) {
+    .recent__title {
+        font-size: 30px;
+        line-height: 32px;
+    }
+    
+    .project__text {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .project__name {
+        font-size: 16px;
+        line-height: 26px;
+    }
+}
+
+@media(max-width: 370px) {
+    .project__text {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .project__name {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .project__btn {
+        width: 50px;
+        height: 50px;
+    }
+}

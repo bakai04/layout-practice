@@ -34,7 +34,7 @@
 }
 .burger:focus{
     background: #FFFFFF;
-    outline: 1px solid #5AB0FF;
+    outline: 1px solid #CDA274;
 }
 .burger span {
     width: 16px;

@@ -1,0 +1,101 @@
+#footer {
+    margin-top: 96px;
+    padding-bottom: 110px;
+}
+
+.footer__inner {
+    display: flex;
+    justify-content: space-between;
+}
+.footer__logo{
+    margin-top: 30px;
+}
+.logo__text {
+    width: 326px;
+    margin-top: 10px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+}
+
+.social-media {
+    display: flex;
+    justify-content: space-between;
+    width: 184px;
+    margin-top: 30px;
+}
+
+.footer__row {
+    display: flex;
+    flex-direction: column;
+    min-width: 140px;
+    width: fit-content;
+    margin-top: 30px;
+}
+
+.footer__row li {
+    list-style-type: none;
+    margin-bottom: 30px;
+}
+
+.row__title {
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 38px;
+    letter-spacing: 0.22px;
+    margin-bottom: 21px;
+    color: #292F36;
+}
+
+.footer__link {
+    text-decoration: none;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+}
+
+.row__email,
+.row__address,
+.row__number {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+    margin-bottom: 29px;
+}
+
+.row__address {
+    width: 321px;
+}
+
+.copyright {
+    border-top: 1px solid #292F36;
+    padding: 35px 0px;
+    text-align: center;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+}
+
+.copyright span {
+    padding: 35px 0px;
+    text-align: center;
+    color: #CDA274;
+}

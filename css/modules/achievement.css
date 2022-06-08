@@ -1,0 +1,44 @@
+.our-achievement {
+    background: #F4F0EC;
+    margin-top: 140px;
+}
+
+.our-achievement__inner {
+    display: flex;
+    justify-content: space-between;
+    padding: 140px 0px 140px 0px;
+}
+.our-achievement__inner hr{
+    height: 195px;
+    width: 1px;
+    background: #CDA274;
+    border: 0px solid #CDA274;
+}
+
+.our-achievement__results {
+    width: 303px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.results__count {
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 85px;
+    line-height: 128px;
+    letter-spacing: 1.7px;
+    color: #CDA274;
+}
+
+.results__title {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.22px;
+    margin-top: 10px;
+    color: #4D5053;
+}

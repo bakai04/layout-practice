@@ -1,0 +1,86 @@
+.recent {
+    margin-top: 114px;
+    text-align: center;
+}
+
+.recent__title {
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 47px;
+    line-height: 62px;
+    letter-spacing: 0.22px;
+    color: #292F36;
+    margin-bottom: 20px;
+}
+
+.recent__text {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+    width: 786px;
+    margin: 0 auto;
+}
+
+.recent__projects {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 11px;
+}
+
+.recent__projects {
+    text-align: left;
+}
+
+.project__description {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 18px;
+}
+.project{
+    margin-top: 60px;
+}
+.project__text {
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.22px;
+    color: #292F36;
+}
+
+.project__name {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+}
+
+.project__btn {
+    width: 70px;
+    height: 70px;
+    border: 0px;
+    background: #F4F0EC;
+    border-radius: 100px;
+}
+.project__btn:hover{
+    background: #f3f3f3;
+    border: 1px solid #f3f3f3;
+}
+.project__btn:focus{
+    background: #f3f3f3;
+    border: 1px solid #CDA274;
+}
+.project__btn svg{
+    margin: 5px auto 0px 3px;
+}

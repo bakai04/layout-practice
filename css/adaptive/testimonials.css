@@ -1,0 +1,140 @@
+@media(max-width: 1300px) {
+    .testimonial {
+        width: 24vw;
+        padding: 50px 0px 45px 25px;
+    }
+}
+
+@media(max-width: 1200px) {
+    .testimonial {
+        width: 36vw;
+        margin: 1vw auto 0px auto;
+    }
+
+    .testimonial__text {
+        width: 30vw;
+    }
+
+    .testimonials__cards {
+        flex-wrap: wrap;
+    }
+}
+
+@media(max-width: 1100px) {
+    .testimonial {
+        width: 36vw;
+        margin: 10px auto 0px auto;
+    }
+
+    .testimonial__text {
+        width: 30vw;
+    }
+
+    .testimonials__cards {
+        flex-wrap: wrap;
+    }
+}
+
+@media(max-width: 700px) {
+    .testimonial {
+        width: 66vw;
+        margin: 10px auto 0px auto;
+    }
+
+    .testimonial__text {
+        width: 60vw;
+    }
+
+    .testimonials__cards {
+        flex-wrap: wrap;
+    }
+}
+
+@media(max-width: 1000px) {
+    .testimonial {
+        width: 56vw;
+        margin: 10px auto 0px auto;
+    }
+
+    .testimonial__text {
+        width: 50vw;
+    }
+
+    .testimonials__cards {
+        flex-wrap: wrap;
+    }
+}
+
+@media(max-width: 680px) {
+    .testimonials__title {
+        width: 56vw;
+        font-size: 40px;
+        line-height: 38px;
+    }
+}
+@media(max-width: 600px) {
+    #testimonials {
+        padding: 30px 20px 25px 20px;
+        border-radius: 30px;
+    }
+    .testimonials__cards {
+        margin-top: 27px;
+    }
+    .testimonial {
+        width: 76vw;
+        margin: 10px auto 0px auto;
+    }
+    .testimonial__text {
+        width: 60vw;
+        margin-top: 15px;
+    }
+    .testimonials__title {
+        width: 76vw;
+        font-size: 35px;
+    }
+}
+@media(max-width: 450px) {
+    .testimonial {
+        padding: 20px 0px 25px 25px;
+    }
+    .testimonials__title {
+        width: 76vw;
+        font-size: 30px;
+    }
+
+    .testimonial__user img {
+        width: 57px;
+        margin-right: 15px;
+    }
+
+    .user__name {
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .user__location {
+        font-size: 18px;
+    }
+
+    .testimonial__text {
+        font-size: 18px;
+    }
+}
+@media(max-width: 350px) {
+    .testimonials__title {
+        width: 76vw;
+        font-size: 25px;
+    }
+    .user__name {
+        font-size: 20px;
+        line-height: 18px;
+    }
+
+    .user__location {
+        font-size: 16px;
+    }
+    .testimonial__text {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}

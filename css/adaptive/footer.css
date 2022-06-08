@@ -1,0 +1,23 @@
+@media(max-width:1200px){
+    .footer__inner{
+        flex-wrap: wrap;
+    }
+}
+@media(max-width: 800px){
+    .logo__text {
+        width: 280px;
+    }
+    .row__address{
+        width: 280px;
+    }
+}
+@media(max-width: 600px){
+    .footer__row li {
+        list-style-type: none;
+        margin-bottom: 20px;
+    }
+    #footer {
+        margin-top: 40px;
+        padding-bottom: 110px;
+    }
+}

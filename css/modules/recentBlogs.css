@@ -1,0 +1,109 @@
+#recent-blogs {
+    margin-top: 143px;
+}
+
+.recent-blogs__title {
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    text-align: center;
+    line-height: 62px;
+    letter-spacing: 0.22px;
+    color: #292F36;
+}
+
+.recent-blogs__text {
+    width: 589px;
+    margin: 21px auto 0px auto;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+}
+
+.recent-blogs__projects {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.design__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.project__design {
+    margin-top: 40px;
+    border: 1px solid #E7E7E7;
+    border-radius: 62px;
+    padding: 21px 21px 41px 21px;
+}
+
+.room {
+    position: absolute;
+    transform: translateY(223px);
+    margin-left: 24px;
+    background: #FFFFFF;
+    border-radius: 8px 8px 8px 0px;
+    padding: 10px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+}
+
+.design__description {
+    width: 334px;
+    margin-top: 10px;
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 35px;
+    letter-spacing: 0.5px;
+    color: #292F36;
+}
+
+.design__date {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+}
+
+.design__btn {
+    width: 52px;
+    height: 52px;
+    border: 1px solid #F4F0EC;
+    background: #F4F0EC;
+    border-radius: 100px;
+    transition: all ease-in-out 0.2s;
+}
+
+.design__btn:hover {
+    background: #f3f3f3;
+    border: 1px solid #f3f3f3;
+}
+
+.design__btn:focus {
+    background: #f3f3f3;
+    border: 1px solid #CDA274;
+}
+
+.design__btn svg {
+    margin-top: 3px;
+}

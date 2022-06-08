@@ -1,0 +1,61 @@
+#challenging-designs {
+    margin-top: 170px;
+}
+
+.challenging-designs__inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.challenging-designs__title {
+    font-family: 'DM Serif Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 65px;
+    letter-spacing: 0.22px;
+    margin-top: 40px;
+    color: #292F36;
+}
+
+.challenging-title__text {
+    width: 531px;
+    margin-top: 42px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+}
+
+.challenging__phone {
+    display: flex;
+    align-items: center;
+    margin: 40px 0px 50px 0px;
+}
+
+.challenging__phone svg {
+    margin-right: 20px;
+}
+
+.phone__number {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+}
+
+.phone__title {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.22px;
+    color: #4D5053;
+}

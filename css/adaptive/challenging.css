@@ -1,0 +1,118 @@
+@media(max-width: 1300px) {
+    .challenging-designs__img {
+        width: 472px;
+    }
+}
+
+@media(max-width: 1100px) {
+    .challenging-designs__img {
+        width: 430px;
+    }
+
+    .challenging-designs__title {
+        font-size: 45px;
+        line-height: 65px;
+        margin-top: 40px;
+    }
+
+    .challenging-title__text {
+        width: 450px;
+        font-size: 22px;
+    }
+
+    .challenging__phone svg {
+        margin-right: 20px;
+    }
+
+    .phone__number {
+        font-size: 24px;
+        line-height: 36px;
+    }
+}
+
+@media(max-width: 970px) {
+    #challenging-designs {
+        margin-top: 70px;
+    }
+    .challenging-designs__img {
+        display: none;
+    }
+
+    .challenging-designs__title {
+        font-size: 50px;
+        line-height: 65px;
+        max-width: 90%;
+        margin-top: 40px;
+    }
+
+    .challenging-title__text {
+        width: 90%;
+    }
+}
+
+@media(max-width: 670px) {
+    .challenging-designs__img {
+        display: none;
+    }
+
+    .challenging-designs__title {
+        font-size: 50px;
+        line-height: 65px;
+    }
+    .challenging__phone {
+        margin: 30px 0px 30px 0px;
+    }
+}
+
+@media(max-width: 570px) {
+    .challenging-designs__title {
+        font-size: 42px;
+        line-height: 65px;
+    }
+}
+
+@media(max-width: 470px) {
+    .challenging-designs__title {
+        font-size: 38px;
+        line-height: 45px;
+        margin-top: 0px;
+    }
+
+    .challenging-title__text {
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .challenging__phone svg {
+        width: 73px;
+    }
+    .phone__number {
+        font-size: 20px;
+        line-height: 36px;
+    }
+    
+    .phone__title {
+        font-size: 20px;
+        line-height: 33px;
+    }
+    
+}
+
+@media(max-width: 420px) {
+    .challenging-designs__title {
+        font-size: 32px;
+        line-height: 40px;
+    }
+}
+
+@media(max-width: 370px) {
+    .challenging-designs__title {
+        font-size: 28px;
+        line-height: 40px;
+    }
+
+    .challenging-title__text {
+        margin-top: 22px;
+        font-size: 16px;
+        line-height: 23px;
+    }
+}

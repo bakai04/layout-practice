@@ -37,6 +37,9 @@
 }
 
 @media(max-width: 770px) {
+    .articles__inner {
+        margin-top: 50px;
+    }
     .article {
         width: 300px;
     }

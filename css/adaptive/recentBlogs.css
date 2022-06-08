@@ -1,0 +1,114 @@
+@media(max-width: 1300px){
+    .design__img{
+        width: 37vw;
+    }
+    .project__design {
+        margin-top: 2vw;
+    }
+    .room {
+        transform: translateY(25vw);
+    }
+}
+@media(max-width: 1060px){
+    .design__img{
+        width: 36vw;
+    }
+    .project__design {
+        margin-top: 2vw;
+    }
+    .room {
+        transform: translateY(25vw);
+    }
+}
+@media(max-width: 920px){
+    .design__img{
+        width: 35vw;
+    }
+    .project__design {
+        margin-top: 2vw;
+    }
+    .room {
+        transform: translateY(22vw);
+    }
+    .design__description {
+        width: 35vw;
+        font-size: 22px;
+        line-height: 25px;
+    }
+}
+@media(max-width: 825px){
+    .design__description {
+        width: 35vw;
+        font-size: 20px;
+        line-height: 25px;
+    }
+}
+@media(max-width: 720px){
+    .design__img{
+        width: 34vw;
+    }
+    .recent-blogs__text {
+        width: 100%;
+        font-size: 22px;
+    }
+    .room {
+        transform: translateY(21vw);
+    }
+    .design__description {
+        width: 34vw;
+        font-size: 22px;
+        line-height: 25px;
+    }
+
+}
+@media(max-width: 650px){
+    #recent-blogs {
+        margin-top: 60px;
+    }
+    .project__design{
+        width: 100%;
+    }
+    .design__img{
+        width: 100%;
+    }
+    .recent-blogs__title {
+        font-size: 40px;
+        line-height: 42px;
+    }
+    
+    .room {
+        transform: translateY(50vw);
+        font-size: 16px;
+        line-height: 25px;
+        margin-left: 25px;
+    }
+    .design__description {
+        width: 90%;
+    }
+}
+@media(max-width: 400px){
+    .recent-blogs__title {
+        font-size: 40px;
+        line-height: 42px;
+    }
+    
+    .room {
+        transform: translateY(50vw);
+        font-size: 14px;
+        line-height: 15px;
+        margin-left: 15px;
+    }
+}
+@media(max-width: 350px){
+    .design__description {
+        width: 90%;
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .room {
+        transform: translateY(45vw);
+        font-size: 14px;
+        line-height: 15px;
+        margin-left: 15px;
+    }
+}
