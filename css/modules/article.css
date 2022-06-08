@@ -46,7 +46,7 @@
     background-color: #FFFFFF;
     display: flex;
     align-items: center;
-    margin: 68px auto 0px auto;
+    margin: 55px auto 0px auto;
     transition: all ease-in-out 0.2s;
 }
 .article__btn:hover{
