@@ -21,6 +21,9 @@
     letter-spacing: 0.22px;
     color: #4D5053;
 }
+.social-media__item:hover path{
+    fill: #CDA274;
+}
 
 .social-media {
     display: flex;
@@ -62,6 +65,9 @@
     line-height: 33px;
     letter-spacing: 0.22px;
     color: #4D5053;
+}
+.footer__link:hover{
+    color: #CDA274;
 }
 
 .row__email,

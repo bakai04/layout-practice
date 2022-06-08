@@ -37,7 +37,5 @@
 }
 
 .contact__btn:focus{
-    background-color: #FFFFFF;
     border: 2px solid #CDA274;
-    color: #CDA274;
 }

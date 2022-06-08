@@ -15,7 +15,7 @@
     text-transform:capitalize;
     color: #292F36;
 }
-.menu__link-active{
+.menu__link:hover{
     color: #CDA274;
 }
 .burger {
