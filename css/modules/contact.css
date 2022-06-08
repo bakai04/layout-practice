@@ -33,7 +33,11 @@
     border: 1px solid #CDA274;
 }
 .contact__btn:hover{
+    transform: scale(0.98);
+}
+
+.contact__btn:focus{
     background-color: #FFFFFF;
-    border: 1px solid #CDA274;
+    border: 2px solid #CDA274;
     color: #CDA274;
 }

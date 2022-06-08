@@ -40,11 +40,21 @@
     font-size: 18px;
     letter-spacing: 0.36px;
     color: #4D5053;
-    border: 0px;
+    border: 2px solid #FFFFFF;
+    padding: 10px;
+    border-radius: 15px;
     background-color: #FFFFFF;
     display: flex;
     align-items: center;
     margin: 68px auto 0px auto;
+    transition: all ease-in-out 0.2s;
+}
+.article__btn:hover{
+    transform: scale(0.98);
+}
+.article__btn:focus{
+    border: 2px solid #CDA274;
+    color: #CDA274;
 }
 .article__btn svg{
     margin-left: 8px;

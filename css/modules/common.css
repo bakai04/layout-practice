@@ -33,13 +33,14 @@ button{
     transition: all ease-in-out 0.2s;
     cursor: pointer;
 }
-
 .prime-btn:hover {
+    transform: scale(0.98);
+}
+.prime-btn:focus {
     background: #FFFFFF;
     border: 2px solid #CDA274;
     color:#CDA274;
 }
-
 .prime-btn__arrow {
     margin-left: 34px;
     margin-right: -14px;
