@@ -21,7 +21,6 @@
 .testimonials__cards {
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
     margin-top: 47px;
 }
 
@@ -69,6 +68,6 @@
     line-height: 30px;
     letter-spacing: 0.22px;
     color: #4D5053;
-    width: 19vw;
+    width: 100%;
     margin-top: 25px;
 }
